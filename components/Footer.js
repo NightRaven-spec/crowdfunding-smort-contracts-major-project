@@ -83,13 +83,13 @@ export default function Footer() {
           <NextLink href="/">Home</NextLink>
           <Link
             href={
-              "https://github.com/harsh242/betterfund-crowdfunding-in-blockchain"
+              "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             }
             isExternal
           >
             Github
           </Link>
-          <Link href={"mailto:harshbadhai242@gmail.com"} isExternal>
+          <Link href={"mailto:arjunnew1999@gmail.com"} isExternal>
             Contact
           </Link>
         </Stack>
@@ -109,24 +109,24 @@ export default function Footer() {
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
         >
-          <Text>🌐 Made while 💩 by Harsh, Hritvik , Nischal & Aaditya</Text>
+          <Text>thanks visting</Text>
           <Stack direction={"row"} spacing={6}>
-            <SocialButton label={"Website"} href={"https://harshbadhai.me/"}>
+            <SocialButton label={"Website"} href={"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}>
               {" "}
               <FaGlobe />
             </SocialButton>
             <SocialButton
               label={"Twitter"}
-              href={"https://twitter.com/harshbadhai28"}
+              href={"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
             >
               <FaTwitter />
             </SocialButton>
-            <SocialButton label={"Github"} href={"https://github.com/harsh242"}>
+            <SocialButton label={"Github"} href={"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}>
               <FaGithub />
             </SocialButton>
             <SocialButton
               label={"Instagram"}
-              href={"https://www.instagram.com/frames_by._harsh/"}
+              href={"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
             >
               <FaInstagram />
             </SocialButton>
